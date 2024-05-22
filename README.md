@@ -1,9 +1,9 @@
 ### Hello, I am Ana Letícia! 👋
 
-### 🙋‍♂️ | Who I am?
+### 🙋‍♂️ | Who I am
 Hello, I am Ana Letícia. I am a student of Systems Analysis and Development at IFPE. I have a passion for learning new things and enjoy exploring various aspects of technology and programming.
 
-### 💻 | What I am currently learning?
+### 💻 | What I am currently learning
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
