@@ -16,6 +16,6 @@ Hello, I am Ana Letícia. I am a student of Systems Analysis and Development at 
 
 ### GitHub Stats 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=analeticiarc&show_icons=true&theme=radical)
+![Ana Letícia's GitHub stats](https://github-readme-stats.vercel.app/api?username=analeticiarc&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=analeticiarc&layout=compact&theme=radical)
